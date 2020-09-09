@@ -2,6 +2,7 @@ public class Hello {
     public void hello(){
         System.out.println("aaa");
         System.out.println("bbb");
+        System.out.println("ccc");
     }
 
     public static void main(String[] args) {
